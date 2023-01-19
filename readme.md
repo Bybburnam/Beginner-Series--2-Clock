@@ -1,0 +1,2 @@
+To complete this solution, I created three variables that converted 
+seconds, minutes, and hours tio Milliseconds. Once that was done I made a request to return three variables added together to return the time since midnight in milliseconds.
